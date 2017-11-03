@@ -18,6 +18,10 @@ https://github.com/zhehescarlett/UAV-Path-Optimization/blob/master/Documents/Doc
 
 ![](https://github.com/zhehescarlett/UAV-Path-Optimization/blob/master/pic/pic2.JPG?raw=true)
 
+\*-Enemy Base
+Blue_line-UAV Path
+Red_Circle-Recognition Range
+
 ## detail
 
 ![](https://github.com/zhehescarlett/UAV-Path-Optimization/blob/master/pic/path2.JPG?raw=true)
